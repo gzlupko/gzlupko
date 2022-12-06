@@ -1,5 +1,5 @@
 
-Hello! :wave:
+**Hello!** :wave:
 
 🏫 I'm a current PhD Student in Organizational Psychology at Columbia University with interests in quantitative methods.
 
