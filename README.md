@@ -1,9 +1,9 @@
 
 **Hello!** :wave:
 
-🏫 I'm a current PhD Student in Organizational Psychology at Columbia University with interests in quantiative methods, people analytics, and data science.
+🏫 I'm a current PhD Student in Organizational Psychology at Columbia University with interests in data science and applied research.
 
-:mag: I have two active areas of research. On one project, I am researching social and organizational factors that impact employee motivation and performance. Separately, I'm conducting applied research on the use of text mining techniques for organizational research. 
+:mag: In school, I have two active areas of research. On one project, I am researching social and organizational factors that impact employee motivation and performance. Separately, I'm conducting applied research on the use of text mining techniques for organizational research. 
 
 :busts_in_silhouette: Feel free to get in touch with me via the following:  
 
