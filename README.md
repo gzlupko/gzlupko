@@ -1,7 +1,7 @@
 
 **Hello!** :wave:
 
-🏫 I'm a current PhD Student in Organizational Psychology at Columbia University with career interests in data science and applied research.
+🏫 I'm a current PhD Student in Organizational Psychology at Columbia University with interests in data science and applied research.
 
 <p>
   <h2 align="center"><b>🛠 My Tools</b>
