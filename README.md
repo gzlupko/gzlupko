@@ -3,7 +3,10 @@
 
 🏫 I'm a current PhD Student in Organizational Psychology at Columbia University with interests in data science and applied research.
 
+
 <p>
+
+  
   <h2 align="center"><b>🛠 My Tools</b>
 
 <p align="center">
@@ -13,11 +16,8 @@
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue" alt="AWS" />
   <img src="https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blue" alt="Tableau" />
 </p>
-</p>
-</p>
-</p>
 
-
+</p>
 
 
 
