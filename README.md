@@ -6,13 +6,15 @@
 <p>
   <h2 align="center"><b>🛠 My Tools</b>
 
-  <h3 align="center"><b> Programming Languages</b></p>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="R" src="https://img.shields.io/badge/R-blue"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>  
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-
-    
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blue" alt="R" />
+  <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue" alt="SQL" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue" alt="AWS" />
+  <img src="https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=blue" alt="Tableau" />
+</p>
+</p>
+</p>
 </p>
 
 
