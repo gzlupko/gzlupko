@@ -1,7 +1,7 @@
 
 **Hello!** :wave:
 
-🏫 I'm a PhD Student at Columbia University and a data science intern at Autodesk. I'm seeking a full-time data science role beginning June 2025 following graduation. Please don't hesitate to reach out! 
+🏫 I'm a PhD Student at Columbia University and a data science intern at Autodesk. I'm seeking a full-time role beginning June 2025 following graduation. Please don't hesitate to reach out! 
 
 
 <p>
